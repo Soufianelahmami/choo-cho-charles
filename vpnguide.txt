@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advice mod 1","desc":"Choo Choo Charles is a beloved character among train enthusiasts and young children. He is often depicted as a friendly and cheerful train conductor who loves nothing more than traveling across the country and meeting new people. ","photo":"https://iili.io/HU3kmWF.jpg"},
+  {"title":"how to use this app 2","desc":"In this article, we will delve into the history and evolution of Choo Choo Charles, as well as explore the cultural significance of this iconic character.","photo":"https://iili.io/HU3kbx1.jpg"},
+  {"title":"tips pack 3","desc":"Choo Choo Charles first made his appearance in the 1950s in a children's book titled "Choo Choo Charlie." Written by Betty Brinn, the book was about a train conductor named Charlie who loved his job and was loved by all the children who rode on his train. ","photo":"https://iili.io/HU3v9fa.webp"},
+  {"title":"helper mod 4","desc":" The book was a hit with children and adults alike, and it quickly became a classic in children's literature.","photo":"https://iili.io/HU3ktDP.webp"},
+  {"title":"advance pack 5","desc":" The book was a hit with children and adults alike, and it quickly became a classic in children's literature.","photo":"https://iili.io/HU3kpig.jpg"},
+  {"title":"how to use this app 6","desc":"In the 1960s, Choo Choo Charles was adapted into a television series called "Choo Choo Charlie and Friends." The show featured Choo Choo Charles as the main character, ","photo":"https://iili.io/HU3vH0J.webp"},
+  {"title":"helper mod 7","desc":"and each episode followed his adventures as he traveled across the country with his train, meeting new people and having new experiences.","photo":"https://iili.io/HU3vJUv.webp"},
+  {"title":"tips pack 8","desc":"and each episode followed his adventures as he traveled across the country with his train, meeting new people and having new experiences.","photo":"https://iili.io/HU3v2JR.webp"}
    ]
  
 }
